@@ -15,6 +15,7 @@ export default function App() {
         <div className="container mx-auto p-4">
           <h2>Contador</h2>
         </div>
+        <span>Teste</span>
       </main>
     </div>
   );
