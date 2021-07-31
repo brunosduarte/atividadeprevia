@@ -17,7 +17,7 @@ import ReactDOM from 'react-dom';
  * Importação do componente principal
  * da aplicação
  */
-import App from './App';
+import App from './components/App.jsx';
 
 /**
  * Este arquivo pode ser considerado o CSS
